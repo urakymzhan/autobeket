@@ -1,2 +1,7 @@
-# autobeket
-Autobeket front end code 
+# Autobeket
+
+
+### Authors 
+ - FE: Ulan 
+ - BE: Tilek - located in private repo
+
